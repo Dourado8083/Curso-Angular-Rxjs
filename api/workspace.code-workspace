@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "api",
+			"path": "."
+		},
+		{
+			"name": "app",
+			"path": "..\\Desktop\\Alura Api\\alura_angular_rxjs_1-master\\api\\app"
+		},
+		{
+			"name": "config",
+			"path": "..\\Desktop\\Alura Api\\alura_angular_rxjs_1-master\\api\\config"
+		}
+	],
+	"settings": {}
+}
